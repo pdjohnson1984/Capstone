@@ -1,3 +1,3 @@
 # Conda environment with environment.yml
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/pdjohnson1984/Capstone/081cc1d62ad30bb6551147dbf9f50029d9b6452d?urlpath=lab%2Ftree%2FCapstone.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/pdjohnson1984/Capstone.git/HEAD?urlpath=https%3A%2F%2Fgithub.com%2Fpdjohnson1984%2FCapstone%2Fblob%2Fmaster%2FCapstone.ipynb)
