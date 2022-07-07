@@ -1,7 +1,8 @@
-name: example-environment
+name: prod
 channels:
   - conda-forge
 dependencies:
+  - seaborn
   - numpy
   - psutil
   - toolz
@@ -11,5 +12,5 @@ dependencies:
   - partd
   - bokeh
   - dask
-  - seaborn
+
 	
