@@ -2,7 +2,7 @@ name: prod
 channels:
   - conda-forge
 dependencies:
-  - sklearn
+  - scikit-learn
   - seaborn
   - numpy
   - psutil
